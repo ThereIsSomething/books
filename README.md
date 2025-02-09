@@ -72,8 +72,8 @@
 ## Built with
 
 * HTML - For the web framework
-* CSS - For styling components
-* JavaScript - For magic!
+* CSS - For styling components(vanilla js, webkits, google fonts APIs)
+* JavaScript - For magic! & functionality to provide you with books at tips within secs
 
 ---
 
