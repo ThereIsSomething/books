@@ -21,6 +21,7 @@
 *.rar
 *.tar
 *.zip
+*.yml
 
 # Logs and databases #
 ######################
