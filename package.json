@@ -1,0 +1,16 @@
+{
+	"name": "Books",
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/ThereIsSomething/books.git"
+	},
+	"description": "Find books from Google Play Books",
+	"author": "ThereIsSomething",
+	"version": "0.0.1",
+	"devDependencies": {
+		"jshint": "^2.10.2"
+	},
+	"dependencies": {
+		"node": "^23.7.0"
+	}
+}
